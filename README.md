@@ -2,6 +2,16 @@
 
 This ever evolving project demonstrates features of OpenGL
 
+## Windows Development
+
+Microsoft Windows 10 home
+
+cmake version 3.21.1
+
+VS Studio 2019
+
+OpenGL 4.6
+
 ## Linux Development
 
 Linux distro "Pop!_OS 21.04"
