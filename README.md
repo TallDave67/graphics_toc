@@ -26,7 +26,9 @@ OpenGL 4.6
 
 [Cube Ranger Splash (linux)](https://github.com/TallDave67/cube_ranger_splash)
 
-### Open GL Course App
+### Open GL Course App (windows)
 
-[Shaders and Triangles (windows)](https://github.com/TallDave67/OpenGLCourseApp-Section2.5)
+[Shaders and Triangles](https://github.com/TallDave67/OpenGLCourseApp-Section2.5)
+
+[Uniform Variables, a.k.a Shaders and Moving Triangles](https://github.com/TallDave67/OpenGLCourseApp-Section2.7)
 
