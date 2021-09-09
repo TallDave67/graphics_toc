@@ -32,5 +32,5 @@ OpenGL 4.6
 
 [Uniform Variables, a.k.a Shaders and Moving Triangles](https://github.com/TallDave67/OpenGLCourseApp-Section2.7)
 
-[Applying Scale/Rotation/Translation transformations to our Blue Triangle](https://github.com/TallDave67/OpenGLCourseApp-Section2.12)
+[Applying Scaling/Rotation/Translation transformations to our Blue Triangle](https://github.com/TallDave67/OpenGLCourseApp-Section2.12)
 
