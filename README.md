@@ -36,3 +36,7 @@ OpenGL 4.6
 
 [The Moving Tetrahedron](https://github.com/TallDave67/OpenGLCourseApp-Section2.16)
 
+[The Tetrahedron and the Cube Dance Together](https://github.com/TallDave67/OpenGLCourseApp-Section2.17)
+
+[A Camera that Moves Around Our Objects](https://github.com/TallDave67/OpenGLCourseApp-Section3.21)
+
