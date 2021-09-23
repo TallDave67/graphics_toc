@@ -40,3 +40,5 @@ OpenGL 4.6
 
 [A Camera that Moves Around Our Objects](https://github.com/TallDave67/OpenGLCourseApp-Section3.21)
 
+[A 3D scene with a Camera where the objects are decorated with textures](https://github.com/TallDave67/OpenGLCourseApp-Section4.23)
+
