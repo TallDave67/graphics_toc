@@ -43,3 +43,7 @@ OpenGL 4.6
 [A 3D scene with a Camera where the objects are decorated with textures](https://github.com/TallDave67/OpenGLCourseApp-Section4.23)
 
 [Our objects are an old electronic device and an interesting spaceship](https://github.com/TallDave67/OpenGLCourseApp-Section4.23a)
+
+[A spaceship circles a cube with directional lighting](https://github.com/TallDave67/OpenGLCourseApp-Section4.27)
+
+[A spaceship circles a cube with directional and point lighting](https://github.com/TallDave67/OpenGLCourseApp-Section4.30)
