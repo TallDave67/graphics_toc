@@ -24,4 +24,4 @@ OpenGL 4.6
 
 ## Table of Contents
 
-[Spotlights on a Flying Object](https://github.com/TallDave67/Environmental_Simulation_1)
+[X-wing Fighter on a Reconnaissance Mission](https://github.com/TallDave67/flight_sim_3p_01)
