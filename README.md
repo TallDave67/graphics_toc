@@ -1,4 +1,4 @@
-# 3D Graphics Simulations
+# C++ 3D Graphics Simulations
 
 This is the table of contents for all of my simulation projects
 
