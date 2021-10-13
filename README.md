@@ -24,6 +24,8 @@ OpenGL 4.6
 
 ## Table of Contents
 
-[X-wing Fighter on a Reconnaissance Mission #1](https://github.com/TallDave67/flight_sim_3p_01)
+[X-Wing Fighter on a Reconnaissance Mission #1](https://github.com/TallDave67/flight_sim_3p_01)
 
-[X-wing Fighter on a Reconnaissance Mission #2](https://github.com/TallDave67/flight_sim_3p_02)
+[X-Wing Fighter on a Reconnaissance Mission #2](https://github.com/TallDave67/flight_sim_3p_02)
+
+[X-Wing Fighter on a Reconnaissance Mission with a Transport Ship #3](https://github.com/TallDave67/flight_sim_3p_03)
