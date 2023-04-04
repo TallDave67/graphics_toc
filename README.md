@@ -1,6 +1,6 @@
-# C++ 3D Graphics Simulations
+# C++ 3D Graphics: X-Wing Fighters flying along ever Smoother Paths
 
-This is the table of contents for all of my simulation projects
+This is the table of contents for all of my 3D graphics projects dedicated to planning out a smoother path for an X-Wing Fighter to follow.
 
 ## Windows Development
 
