@@ -1,4 +1,4 @@
-# 3D Graphics : Motion Planning Simulation (C++)
+# 3D Graphics : Motion Planning Simulations (C++)
 
 This is the table of contents for all of my 3D graphics projects dedicated to planning out a smoother path for an X-Wing Fighter to follow.
 
